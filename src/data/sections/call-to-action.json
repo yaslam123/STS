@@ -1,0 +1,7 @@
+{
+  "bg_image": "img/Sts/7.jpg",
+  "title": { "first": "About", "second": "STS", "third": "Company" },
+  "subtitle": "Our Services and Solutions",
+  "button": "Learn More",
+  "link": "/prices"
+}

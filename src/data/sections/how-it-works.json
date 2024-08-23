@@ -1,0 +1,34 @@
+{
+  "title": { "first": "How We", "second": "Collaborate", "third": "With You" },
+  "subtitle": "Discover Our Company",
+  "items": [
+    {
+      "name": "Thinking Big",
+      "icon": "/img/icons/sm/1.svg",
+      "text": "We collaborate to set ambitious goals, crafting tech solutions that drive your business forward, anticipating needs and unlocking new opportunities."
+    },
+    {
+      "name": "Starting Small",
+      "icon": "/img/icons/sm/2.svg",
+      "text": "Our scalable solutions grow with you, starting from your current needs and expanding as your business evolves."
+    },
+    {
+      "name": "Creating Fast",
+      "icon": "/img/icons/sm/3.svg",
+      "text": "We deliver quick, effective technology solutions without sacrificing quality, getting you operational in no time."
+    },
+    {
+      "name": "Innovating Scale",
+      "icon": "/img/icons/sm/4.svg",
+      "text": "We scale your business with cutting-edge technologies, ensuring continuous improvement and innovation at any size."
+    }
+  ],
+  "button1": {
+    "label": "Learn More",
+    "link": "/about"
+  },
+  "button2": {
+    "label": "How We Work",
+    "link": "/careers"
+  }
+}

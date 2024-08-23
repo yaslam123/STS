@@ -1,0 +1,43 @@
+{
+  "title": { "first": "How We Can", "second": "Help You" },
+  "column1": {
+    "heading": "IT Solutions",
+    "items": [
+      {
+        "num": "01",
+        "name": "Fire Protection",
+        "icon": "img/icons/md/26.svg",
+        "text": "State-of-the-art fire protection systems to ensure the safety of your premises."
+      },
+      {
+        "num": "02",
+        "name": "Artificial Intelligence (Robots)",
+        "icon": "img/icons/md/11.svg",
+        "text": "Harness the power of AI to drive innovation and gain a competitive edge."
+      },
+      {
+        "num": "03",
+        "name": "Internet of Things (IoT)",
+        "icon": "img/icons/md/5.svg",
+        "text": "Connect and manage your devices seamlessly with our IoT solutions."
+      }
+    ]
+  },
+  "column2": {
+    "heading": "IT Services",
+    "items": [
+      {
+        "num": "04",
+        "name": "Security Systems",
+        "icon": "img/icons/md/19.svg",
+        "text": "Advanced surveillance and access control systems designed to keep your business secure."
+      },
+      {
+        "num": "05",
+        "name": "QA and Testing",
+        "icon": "img/icons/md/10.svg",
+        "text": "Ensure the reliability and performance of your software with our thorough testing services."
+      }
+    ]
+  }
+}
