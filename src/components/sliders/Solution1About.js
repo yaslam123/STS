@@ -71,7 +71,7 @@ const Solution1About = () => {
                 >
                   <div className="mil-circle-bg" />
                   <div className="mil-image-frame">
-                    <img src="img/faces/s2.png" alt="img" />
+                    <img src="img/faces/2.png" alt="img" />
                   </div>
                 </div>
               </div>
@@ -126,7 +126,7 @@ const Solution1About = () => {
                 >
                   <div className="mil-circle-bg" />
                   <div className="mil-image-frame">
-                    <img src="img/faces/t4.png" alt="img" />
+                    <img src="img/faces/3.png" alt="img" />
                   </div>
                 </div>
               </div>
@@ -181,7 +181,7 @@ const Solution1About = () => {
                 >
                   <div className="mil-circle-bg" />
                   <div className="mil-image-frame">
-                    <img src="img/faces/t2.png" alt="img" />
+                    <img src="img/faces/1.png" alt="img" />
                   </div>
                 </div>
               </div>
@@ -236,7 +236,7 @@ const Solution1About = () => {
                 >
                   <div className="mil-circle-bg" />
                   <div className="mil-image-frame">
-                    <img src="img/faces/t5.png" alt="img" />
+                    <img src="img/faces/4.png" alt="img" />
                   </div>
                 </div>
               </div>

@@ -11,8 +11,7 @@ const SolutionMilReviSlider = () => {
               Solutions of Consulting
             </span>
             <h2>
-              <span className="mil-accent">Industry Specific</span> AI
-              Consulting and Development
+              <span className="mil-accent">Why Choose STS for Your CCTV Security Needs?</span>
             </h2>
           </div>
           <div className="col-md-6 col-xl-6">
@@ -39,10 +38,14 @@ const SolutionMilReviSlider = () => {
               <div className="mil-icon-frame mil-icon-frame-md mil-mb-30">
                 <img src="img/icons/md/12.svg" alt="icon" />
               </div>
-              <h5 className="mil-mb-30">Retail and eCommerce</h5>
+              <h5 className="mil-mb-30">Real-Time Alerts and Notifications</h5>
               <p>
-                Dissuade ecstatic and properly saw entirely sir why laughter
-                endeavor. In on my jointure horrible margaret.
+                The CCTV systems from STS are designed to send real-time alerts
+                directly to your smartphone or other devices. This feature
+                ensures that you are instantly informed of any suspicious
+                activity, allowing for a rapid response to potential threats.
+                The system can also be integrated with other security measures,
+                such as alarms and police notifications.
               </p>
             </div>
           </SwiperSlide>
@@ -51,10 +54,14 @@ const SolutionMilReviSlider = () => {
               <div className="mil-icon-frame mil-icon-frame-md mil-mb-30">
                 <img src="img/icons/md/13.svg" alt="icon" />
               </div>
-              <h5 className="mil-mb-30">Education and eLearning</h5>
+              <h5 className="mil-mb-30">Expert Support and Maintenance</h5>
               <p>
-                Dissuade ecstatic and properly saw entirely sir why laughter
-                endeavor. In on my jointure horrible margaret.
+                Choosing STS means having access to a team of experienced
+                professionals who offer ongoing support, maintenance, and
+                upgrades. This ensures that your CCTV system remains operational
+                at all times, with any technical issues resolved promptly. The
+                reliable support also includes regular updates to keep your
+                security system at the forefront of technological advancements.
               </p>
             </div>
           </SwiperSlide>
@@ -63,10 +70,13 @@ const SolutionMilReviSlider = () => {
               <div className="mil-icon-frame mil-icon-frame-md mil-mb-30">
                 <img src="img/icons/md/14.svg" alt="icon" />
               </div>
-              <h5 className="mil-mb-30">Finance and Banking</h5>
+              <h5 className="mil-mb-30">Scalability and Customization</h5>
               <p>
-                Dissuade ecstatic and properly saw entirely sir why laughter
-                endeavor. In on my jointure horrible margaret.
+                STS offers scalable solutions that can be customized to fit the
+                unique needs of your business or home. Whether you require a
+                single camera setup or a comprehensive network of surveillance
+                systems across multiple locations, STS can provide a tailored
+                solution that grows with your security requirements.
               </p>
             </div>
           </SwiperSlide>
@@ -75,10 +85,12 @@ const SolutionMilReviSlider = () => {
               <div className="mil-icon-frame mil-icon-frame-md mil-mb-30">
                 <img src="img/icons/md/2.svg" alt="icon" />
               </div>
-              <h5 className="mil-mb-30">Life Sciences</h5>
+              <h5 className="mil-mb-30">Comprehensive Customer Care</h5>
               <p>
-                Dissuade ecstatic and properly saw entirely sir why laughter
-                endeavor. In on my jointure horrible margaret.
+                STS combines advanced CCTV technology with excellent customer
+                care. From choosing the right system to installation and ongoing
+                support, STS ensures you’re fully supported at every stage,
+                providing peace of mind and reliable security.
               </p>
             </div>
           </SwiperSlide>

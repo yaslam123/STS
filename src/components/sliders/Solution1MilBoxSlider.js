@@ -24,8 +24,8 @@ const Solution1MilBoxSlider = () => {
                   data-swiper-parallax-opacity={0}
                 >
                   <h3 className="mil-light mil-mb-120">
-                    AI Solutions To Analyze and Understand The{" "}
-                    <span className="mil-accent">Physical World</span>
+                    Our Camera Features{" "}
+                    {/* <span className="mil-accent">Physical World</span> */}
                   </h3>
                   <div className="mil-hori-box mil-mb-30">
                     <div className="mil-mr-15">
@@ -36,9 +36,9 @@ const Solution1MilBoxSlider = () => {
                     <h5 className="mil-light">Facial Recognition</h5>
                   </div>
                   <p className="mil-light-soft">
-                    Dissuade ecstatic and properly saw entirely sir why laughter
-                    endeavor. In on my jointure horrible margaret suitable he
-                    followed speedily.
+                    STS CCTV cameras feature facial recognition technology,
+                    helping to identify and track individuals for enhanced
+                    security.
                   </p>
                 </div>
               </SwiperSlide>
@@ -48,8 +48,8 @@ const Solution1MilBoxSlider = () => {
                   data-swiper-parallax-opacity={0}
                 >
                   <h3 className="mil-light mil-mb-120">
-                    Industry Specific AI Consulting and{" "}
-                    <span className="mil-accent">Development</span>
+                    Our Camera Features{" "}
+                    {/* <span className="mil-accent">Development</span> */}
                   </h3>
                   <div className="mil-hori-box mil-mb-30">
                     <div className="mil-mr-15">
@@ -57,12 +57,12 @@ const Solution1MilBoxSlider = () => {
                         <img src="img/icons/md/11.svg" alt="icon" />
                       </div>
                     </div>
-                    <h5 className="mil-light">Artificial Intelligence</h5>
+                    <h5 className="mil-light">Night Vision</h5>
                   </div>
                   <p className="mil-light-soft">
-                    Dissuade ecstatic and properly saw entirely sir why laughter
-                    endeavor. In on my jointure horrible margaret suitable he
-                    followed speedily.
+                    STS cameras offer night vision capabilities, ensuring clear
+                    footage even in low-light conditions for
+                    round-the-clock protection
                   </p>
                 </div>
               </SwiperSlide>
@@ -132,12 +132,19 @@ const Solution1MilBoxSlider = () => {
           style={{ overflow: "hidden" }}
         >
           <img
+            src="img/faces/st.png"
+            className="mil-background-image"
+            style={{ objectPosition: "center" }}
+            data-swiper-parallax-scale="1.1"
+            alt="img"
+          />
+          {/* <img
             src="img/photo/14.jpg"
             className="mil-background-image"
             style={{ objectPosition: "center" }}
             data-swiper-parallax-scale="1.1"
             alt="image"
-          />
+          /> */}
           <div className="mil-overlay mil-with-deco mil-super-light" />
         </div>
       </div>
