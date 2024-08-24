@@ -23,7 +23,7 @@ const About = () => {
               <div className="mil-circle-illustration">
                 <div className="mil-circle-bg" />
                 <div className="mil-image-frame">
-                  <img src="img/faces/t3.png" alt="img" />
+                  <img src="img/faces/s5.png" alt="img" />
                 </div>
               </div>
             </div>

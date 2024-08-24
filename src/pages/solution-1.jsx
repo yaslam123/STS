@@ -43,19 +43,23 @@ const Solution1 = () => {
                   </div>
                 </div>
                 <h5>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqu
-                  quis ipsum suspendisse ultrices gravida.
+                  At STS Limited, we understand the importance of reliable,
+                  innovative, and tailored solutions to meet the specific needs
+                  of our clients. Our services are designed to enhance security,
+                  improve communication, and ensure the safety and efficiency of
+                  your operations. Below is a detailed overview of the services
+                  we offer:
                 </h5>
               </div>
             </div>
-            <div className="col-lg-4">
+
+            {/* <div className="col-lg-4">
               <div className="mil-adaptive-right">
                 <a href="#." className="mil-button mil-border mil-mb-30">
                   <span>Get in Touch</span>
                 </a>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>
@@ -68,10 +72,10 @@ const Solution1 = () => {
         <div className="container">
           <div className="mil-text-center mil-mb-90">
             <span className="mil-suptitle mil-suptitle-2 mil-mb-30">
-              Consulting and Development
+            Advanced Security Solutions
             </span>
             <h2>
-              AI Consulting and Development Company <br /> With{" "}
+            "Industry-Leading Solutions in Security, IT, and Communication <br /> With{" "}
               <span className="mil-accent">Extensive Know How</span>
             </h2>
           </div>
@@ -126,7 +130,7 @@ const Solution1 = () => {
       </section>
       {/* call to action end */}
       {/* tech stack */}
-      <section className="mil-p-120-90">
+      {/* <section className="mil-p-120-90">
         <div className="mil-deco" style={{ top: 0, right: "15%" }} />
         <div className="container">
           <span className="mil-suptitle mil-suptitle-2 mil-mb-30">
@@ -198,7 +202,7 @@ const Solution1 = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
       {/* tech stack end */}
     </Layouts>
   );

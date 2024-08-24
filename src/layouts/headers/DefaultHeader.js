@@ -50,13 +50,13 @@ const DefaultHeader = ({ transparent, headerTop, extarClass }) => {
             <nav>
               <ul>
                 <li>
-                  <Link href="/">Enterprise</Link>
+                  <Link href="/">Home</Link>
                 </li>
                 <li>
                   <Link href="/about">About Us</Link>
                 </li>
                 <li>
-                  <Link href="/coming-soon">Services</Link>
+                  <Link href="/solution-1">Services</Link>
                 </li>
                 {/* <li>
                   <Link href="/coming-soon">Solutions</Link>

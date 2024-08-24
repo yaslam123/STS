@@ -1,26 +1,44 @@
 {
-  "index.jsx -> ../components/sliders/Hero": {
-    "id": "index.jsx -> ../components/sliders/Hero",
+  "pages\\index.jsx -> ../components/sliders/Hero": {
+    "id": "pages\\index.jsx -> ../components/sliders/Hero",
     "files": [
       "static/chunks/src_components_sliders_Hero_jsx.js"
     ]
   },
-  "index.jsx -> ../components/sliders/LatestPosts": {
-    "id": "index.jsx -> ../components/sliders/LatestPosts",
+  "pages\\index.jsx -> ../components/sliders/LatestPosts": {
+    "id": "pages\\index.jsx -> ../components/sliders/LatestPosts",
     "files": [
       "static/chunks/src_components_sliders_LatestPosts_jsx.js"
     ]
   },
-  "index.jsx -> ../components/sliders/LatestProjects": {
-    "id": "index.jsx -> ../components/sliders/LatestProjects",
+  "pages\\index.jsx -> ../components/sliders/LatestProjects": {
+    "id": "pages\\index.jsx -> ../components/sliders/LatestProjects",
     "files": [
       "static/chunks/src_components_sliders_LatestProjects_jsx.js"
     ]
   },
-  "index.jsx -> ../components/sliders/Testimonial": {
-    "id": "index.jsx -> ../components/sliders/Testimonial",
+  "pages\\index.jsx -> ../components/sliders/Testimonial": {
+    "id": "pages\\index.jsx -> ../components/sliders/Testimonial",
     "files": [
       "static/chunks/src_components_sliders_Testimonial_jsx.js"
+    ]
+  },
+  "pages\\solution-1.jsx -> @/src/components/sliders/Solution1About": {
+    "id": "pages\\solution-1.jsx -> @/src/components/sliders/Solution1About",
+    "files": [
+      "static/chunks/src_components_sliders_Solution1About_js.js"
+    ]
+  },
+  "pages\\solution-1.jsx -> @/src/components/sliders/Solution1MilBoxSlider": {
+    "id": "pages\\solution-1.jsx -> @/src/components/sliders/Solution1MilBoxSlider",
+    "files": [
+      "static/chunks/src_components_sliders_Solution1MilBoxSlider_js.js"
+    ]
+  },
+  "pages\\solution-1.jsx -> @/src/components/sliders/SolutionMilReviSlider": {
+    "id": "pages\\solution-1.jsx -> @/src/components/sliders/SolutionMilReviSlider",
+    "files": [
+      "static/chunks/src_components_sliders_SolutionMilReviSlider_js.js"
     ]
   }
 }
