@@ -24,7 +24,7 @@ const About = () => {
               <div className="mil-circle-illustration">
                 <div className="mil-circle-bg" />
                 <div className="mil-image-frame">
-                  <img src="img/faces/s5.png" alt="img" />
+                  <img src="img/faces/t3.png" alt="img" />
                 </div>
               </div>
             </div>
@@ -89,38 +89,6 @@ const About = () => {
 
       {/* call to action */}
       <CallToActionSection />
-      {/* <section className="mil-p-120-60">
-        <div className="container">
-          <div className="row align-items-center">
-            <div className="col-lg-12 col-xl-6">
-              <h4 className="mil-mb-60">
-                Lorem ipsum dolor sit amet,{" "}
-                <span className="mil-accent">consectetur adipiscing elit</span>,
-                sed do eiusmod tempor incididunt ut labor aliqua.
-              </h4>
-            </div>
-            <div className="col-lg-12 col-xl-6">
-              <div className="mil-adaptive-right">
-                <a
-                  href="#."
-                  className="mil-button mil-border mil-mr-15 mil-mb-30"
-                >
-                  <span>Talk To an Expert</span>
-                </a>
-                <a href="#." className="mil-button-with-label mil-mb-60">
-                  <div className="mil-button mil-border mil-icon-button">
-                    <span>
-                      <i className="fas fa-play" />
-                    </span>
-                  </div>
-                  <span className="mil-dark">Watch Video</span>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section> */}
-      {/* call to action end */}
 
       {/* Call to action */}
       <AboutVideo />
@@ -136,7 +104,7 @@ const About = () => {
           <div className="row justify-content-between">
             <div className="col-lg-5">
               <div className="mil-h1">
-                8<span className="mil-accent">+</span>
+                20<span className="mil-accent">+</span>
               </div>
               <h6 className="mil-mb-60">Years Experience</h6>
               <h2 className="mil-mb-60">
@@ -154,35 +122,39 @@ const About = () => {
               <div className="row">
                 <div className="col-lg-6">
                   <h6 className="mil-mb-30">
-                    <span className="mil-deccent">16+</span>&nbsp; Security
+                    {" "}
+                    <span className="mil-accent">600+</span>&nbsp; Security
                     Services
                   </h6>
                   <div className="mil-divider mil-divider-left mil-mb-60" />
                 </div>
                 <div className="col-lg-6">
                   <h6 className="mil-mb-30">
-                    <span className="mil-deccent">3+</span>&nbsp; Years IT
-                    Solutions
+                    {" "}
+                    <span className="mil-accent">60+</span>&nbsp; IT Solutions
                   </h6>
                   <div className="mil-divider mil-divider-left mil-mb-60" />
                 </div>
                 <div className="col-lg-6">
                   <h6 className="mil-mb-30">
-                    <span className="mil-deccent">360+</span>&nbsp;
-                    Communication Systems
+                    {" "}
+                    <span className="mil-accent">360+</span>&nbsp; Communication
+                    Systems
                   </h6>
                   <div className="mil-divider mil-divider-left mil-mb-60" />
                 </div>
                 <div className="col-lg-6">
                   <h6 className="mil-mb-30">
-                    <span className="mil-deccent">520+</span>&nbsp; Fire
+                    {" "}
+                    <span className="mil-accent">410+</span>&nbsp; Fire
                     Protection
                   </h6>
                   <div className="mil-divider mil-divider-left mil-mb-60" />
                 </div>
                 <div className="col-lg-6">
                   <h6 className="mil-mb-30">
-                    <span className="mil-deccent">72+</span>&nbsp; Electronic
+                    {" "}
+                    <span className="mil-accent">280+</span>&nbsp; Electronic
                     Devices
                   </h6>
                   <div className="mil-divider mil-divider-left mil-mb-60" />
