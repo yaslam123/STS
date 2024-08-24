@@ -72,11 +72,11 @@ const Solution1 = () => {
         <div className="container">
           <div className="mil-text-center mil-mb-90">
             <span className="mil-suptitle mil-suptitle-2 mil-mb-30">
-            Advanced Security Solutions
+              Advanced Security Solutions
             </span>
             <h2>
-            "Industry-Leading Solutions in Security, IT, and Communication <br /> With{" "}
-              <span className="mil-accent">Extensive Know How</span>
+              "Industry-Leading Solutions in Security, IT, and Communication{" "}
+              <br /> With <span className="mil-accent">Extensive Know How</span>
             </h2>
           </div>
         </div>
@@ -104,7 +104,7 @@ const Solution1 = () => {
       <SolutionMilReviSlider />
       {/* ??? end */}
       {/* call to action */}
-      <section className="call-to-action mil-gradient-bg mil-p-120-120">
+      {/* <section className="call-to-action mil-gradient-bg mil-p-120-120">
         <div
           className="mil-deco mil-deco-accent"
           style={{ top: 0, left: "15%" }}
@@ -127,7 +127,7 @@ const Solution1 = () => {
             </h3>
           </div>
         </div>
-      </section>
+      </section> */}
       {/* call to action end */}
       {/* tech stack */}
       {/* <section className="mil-p-120-90">
