@@ -14,20 +14,12 @@ import SkillsSection from "../components/sections/Skills";
 import ContactSection from "../components/sections/Contact";
 import Divider from "../components/sections/Divider";
 
-const LatestProjectsSlider = dynamic(
-  () => import("../components/sliders/LatestProjects"),
-  { ssr: false }
-);
-const LatestPostsSlider = dynamic(
-  () => import("../components/sliders/LatestPosts"),
-  { ssr: false }
-);
+const ServicesSlider = dynamic(() => import("../components/sliders/Services"), {
+  ssr: false,
+});
+
 const HeroSlideshowSlider = dynamic(
   () => import("../components/sliders/Hero"),
-  { ssr: false }
-);
-const TestimonialSlider = dynamic(
-  () => import("../components/sliders/Testimonial"),
   { ssr: false }
 );
 
@@ -38,8 +30,8 @@ const Home1 = (props) => {
       <AboutSection />
       <Divider />
       <PartnersSection />
+      <ServicesSlider />
       <Divider />
-      <ServicesSection />
       <HowItWorksSection />
       <CallToActionSection />
     </Layouts>

@@ -56,7 +56,7 @@ const DefaultHeader = ({ transparent, headerTop, extarClass }) => {
                   <Link href="/about">About Us</Link>
                 </li>
                 <li>
-                  <Link href="/coming-soon">Services</Link>
+                  <Link href="/solution-1">Services</Link>
                 </li>
                 {/* <li>
                   <Link href="/coming-soon">Solutions</Link>

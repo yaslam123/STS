@@ -1123,7 +1123,7 @@ partners
     display: flex;
     justify-content: center;
     margin-bottom: 30px;
-    filter: grayscale(100%);
+    // filter: grayscale(100%);
 
     @media screen and (max-width: 1200px) {
       width: 33.333%;
@@ -1554,11 +1554,11 @@ card
   }
 
   &:hover {
-    border-color: $accent;
+    border-color: $deccent;
     box-shadow: 0px 0px 40px 0px rgba(18, 24, 32, 0.1);
 
     & i {
-      background-color: $accent;
+      background-color: $deccent;
     }
 
     & .mil-deco {

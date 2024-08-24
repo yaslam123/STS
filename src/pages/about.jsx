@@ -5,6 +5,7 @@ import Layouts from "@/src/layouts/Layouts";
 import Link from "next/link";
 import Divider from "../components/sections/Divider";
 import CallToActionSection from "../components/sections/CallToAction";
+import PartnersSection from "../components/sections/Partners";
 const About = () => {
   return (
     <Layouts footer={2} headerTop extarClass={"has-additional-panel"}>
@@ -153,29 +154,36 @@ const About = () => {
               <div className="row">
                 <div className="col-lg-6">
                   <h6 className="mil-mb-30">
-                    <span className="mil-deccent">16+</span>&nbsp; Software
-                    Development
+                    <span className="mil-deccent">16+</span>&nbsp; Security
+                    Services
                   </h6>
                   <div className="mil-divider mil-divider-left mil-mb-60" />
                 </div>
                 <div className="col-lg-6">
                   <h6 className="mil-mb-30">
-                    <span className="mil-deccent">3+</span>&nbsp; Years Client
-                    Engagement
+                    <span className="mil-deccent">3+</span>&nbsp; Years IT
+                    Solutions
                   </h6>
                   <div className="mil-divider mil-divider-left mil-mb-60" />
                 </div>
                 <div className="col-lg-6">
                   <h6 className="mil-mb-30">
-                    <span className="mil-deccent">360+</span>&nbsp; App
-                    Development
+                    <span className="mil-deccent">360+</span>&nbsp;
+                    Communication Systems
                   </h6>
                   <div className="mil-divider mil-divider-left mil-mb-60" />
                 </div>
                 <div className="col-lg-6">
                   <h6 className="mil-mb-30">
-                    <span className="mil-deccent">520+</span>&nbsp; Web
-                    Development
+                    <span className="mil-deccent">520+</span>&nbsp; Fire
+                    Protection
+                  </h6>
+                  <div className="mil-divider mil-divider-left mil-mb-60" />
+                </div>
+                <div className="col-lg-6">
+                  <h6 className="mil-mb-30">
+                    <span className="mil-deccent">72+</span>&nbsp; Electronic
+                    Devices
                   </h6>
                   <div className="mil-divider mil-divider-left mil-mb-60" />
                 </div>
@@ -189,28 +197,9 @@ const About = () => {
         <div className="mil-divider" />
       </div>
       {/* partners */}
-      <div className="mil-partners mil-p-120-90">
+      <div className="mil-partners ">
         <div className="container">
-          <div className="mil-partners-frame">
-            <a href="#.">
-              <img src="img/partners/1.png" alt="partner" />
-            </a>
-            <a href="#.">
-              <img src="img/partners/2.png" alt="partner" />
-            </a>
-            <a href="#.">
-              <img src="img/partners/3.png" alt="partner" />
-            </a>
-            <a href="#.">
-              <img src="img/partners/4.png" alt="partner" />
-            </a>
-            <a href="#.">
-              <img src="img/partners/5.png" alt="partner" />
-            </a>
-            <a href="#.">
-              <img src="img/partners/6.png" alt="partner" />
-            </a>
-          </div>
+          <PartnersSection />
         </div>
       </div>
       {/* partners end */}
