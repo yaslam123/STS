@@ -11,7 +11,9 @@ const SolutionMilReviSlider = () => {
               Solutions of Consulting
             </span>
             <h2>
-              <span className="mil-accent">Why Choose STS for Your CCTV Security Needs?</span>
+              <span className="mil-accent">
+                Why Choose STS for Your CCTV Security Needs?
+              </span>
             </h2>
           </div>
           <div className="col-md-6 col-xl-6">
@@ -95,10 +97,6 @@ const SolutionMilReviSlider = () => {
             </div>
           </SwiperSlide>
         </Swiper>
-        <a href="#." className="mil-link">
-          <span>Let’s Solve Your Challenges With AI</span>
-          <i className="fas fa-arrow-right" />
-        </a>
       </div>
     </section>
   );
