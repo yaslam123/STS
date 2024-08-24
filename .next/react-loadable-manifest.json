@@ -5,22 +5,10 @@
       "static/chunks/src_components_sliders_Hero_jsx.js"
     ]
   },
-  "pages\\index.jsx -> ../components/sliders/LatestPosts": {
-    "id": "pages\\index.jsx -> ../components/sliders/LatestPosts",
+  "pages\\index.jsx -> ../components/sliders/Services": {
+    "id": "pages\\index.jsx -> ../components/sliders/Services",
     "files": [
-      "static/chunks/src_components_sliders_LatestPosts_jsx.js"
-    ]
-  },
-  "pages\\index.jsx -> ../components/sliders/LatestProjects": {
-    "id": "pages\\index.jsx -> ../components/sliders/LatestProjects",
-    "files": [
-      "static/chunks/src_components_sliders_LatestProjects_jsx.js"
-    ]
-  },
-  "pages\\index.jsx -> ../components/sliders/Testimonial": {
-    "id": "pages\\index.jsx -> ../components/sliders/Testimonial",
-    "files": [
-      "static/chunks/src_components_sliders_Testimonial_jsx.js"
+      "static/chunks/src_components_sliders_Services_jsx.js"
     ]
   },
   "pages\\solution-1.jsx -> @/src/components/sliders/Solution1About": {
