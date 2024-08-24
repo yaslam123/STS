@@ -10,23 +10,5 @@
     "files": [
       "static/chunks/src_components_sliders_Services_jsx.js"
     ]
-  },
-  "solution-1.jsx -> @/src/components/sliders/Solution1About": {
-    "id": "solution-1.jsx -> @/src/components/sliders/Solution1About",
-    "files": [
-      "static/chunks/src_components_sliders_Solution1About_js.js"
-    ]
-  },
-  "solution-1.jsx -> @/src/components/sliders/Solution1MilBoxSlider": {
-    "id": "solution-1.jsx -> @/src/components/sliders/Solution1MilBoxSlider",
-    "files": [
-      "static/chunks/src_components_sliders_Solution1MilBoxSlider_js.js"
-    ]
-  },
-  "solution-1.jsx -> @/src/components/sliders/SolutionMilReviSlider": {
-    "id": "solution-1.jsx -> @/src/components/sliders/SolutionMilReviSlider",
-    "files": [
-      "static/chunks/src_components_sliders_SolutionMilReviSlider_js.js"
-    ]
   }
 }
