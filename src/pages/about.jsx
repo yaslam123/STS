@@ -95,7 +95,7 @@ const About = () => {
       {/* Call to action */}
 
       {/* counters */}
-      <section className="mil-p-120-60">
+      <section className="mil-p-60-60">
         <div
           className="mil-deco2 mil-deco-deccent"
           style={{ top: 0, left: "25%" }}
@@ -176,7 +176,7 @@ const About = () => {
       </div>
       {/* partners end */}
       {/* about */}
-      <section className="mil-deep-bg mil-p-120-60">
+      <section className="mil-deep-bg mil-p-60-60">
         <div
           className="mil-deco2 mil-deco-deccent"
           style={{ top: 0, right: "15%" }}
@@ -213,12 +213,12 @@ const About = () => {
       </section>
       {/* about end */}
       {/* features */}
-      <section className="mil-p-120-120">
+      <section className="mil-p-60-60">
         <div className="container">
           <span className="mil-suptitle mil-suptitle-2 mil-mb-30">
             Discover Our Company
           </span>
-          <h2 className="mil-mb-120">Why Work With Us</h2>
+          <h2 className="mil-mb-50">Why Work With Us</h2>
           <div className="mil-divider" />
           <div className="mil-line-icon-box">
             <div className="row align-items-center">
@@ -228,10 +228,10 @@ const About = () => {
                 </div>
               </div>
               <div className="col-xl-4">
-                <h4 className="mil-mb-30">Top Expertise</h4>
+                <h4 className="mil-mb-10">Top Expertise</h4>
               </div>
               <div className="col-xl-6">
-                <p className="mil-box-text mil-mb-30">
+                <p className="mil-box-text mil-mb-10">
                   Industry-leading professionals dedicated to your success.
                 </p>
               </div>
@@ -314,7 +314,7 @@ const About = () => {
       </section>
       {/* features end */}
       {/* features */}
-      <section className="mil-deep-bg mil-p-120-60">
+      <section className="mil-deep-bg mil-p-60-60">
         <div
           className="mil-deco2 mil-deco-deccent"
           style={{ top: 0, right: "25%" }}
@@ -323,7 +323,7 @@ const About = () => {
           <span className="mil-suptitle mil-suptitle-2 mil-mb-30">
             For STS Company
           </span>
-          <h2 className="mil-mb-120">
+          <h2 className="mil-mb-90">
             We Live by <span className="mil-accent">Powerful</span> Values
           </h2>
           <div className="row">

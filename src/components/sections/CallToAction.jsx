@@ -3,7 +3,7 @@ import Content from "../../data/sections/call-to-action.json";
 
 const CallToActionSection = () => {
   return (
-    <section className="mil-p-120-60">
+    <section className="mil-p-60-60">
       <div className="container">
         <div className="row align-items-center">
           <div className="col-lg-12 col-xl-6">

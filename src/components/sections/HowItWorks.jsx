@@ -2,7 +2,7 @@ import Content from "../../data/sections/how-it-works.json";
 
 const HowItWorksSection = () => {
   return (
-    <section className="mil-how-it-works mil-deep-bg mil-p-120-90">
+    <section className="mil-how-it-works mil-deep-bg mil-p-90-90">
       <div
         className="mil-deco mil-deco-accent"
         style={{ top: 0, right: "20%" }}

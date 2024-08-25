@@ -1353,6 +1353,15 @@ spaces
     margin-bottom: 60px;
   }
 }
+.mil-p-60-60 {
+  padding-top: 40px;
+  padding-bottom: 10px;
+
+  @media screen and (max-width: 992px) {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+}
 
 .mil-p-90-90 {
   padding-top: 90px;
@@ -1360,6 +1369,13 @@ spaces
 
   @media screen and (max-width: 992px) {
     padding-top: 60px;
+    padding-bottom: 60px;
+  }
+}
+.mil-p-0-90 {
+  padding-bottom: 90px;
+
+  @media screen and (max-width: 992px) {
     padding-bottom: 60px;
   }
 }

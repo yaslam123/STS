@@ -2,7 +2,7 @@ import Content from "../../data/sections/about.json";
 
 const AboutSection = () => {
   return (
-    <section className="mil-about mil-p-120-60">
+    <section className="mil-about mil-p-60-60">
       <div
         className="mil-deco2 mil-deco-deccent"
         style={{ top: 0, right: "10%" }}

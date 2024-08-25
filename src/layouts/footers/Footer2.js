@@ -4,7 +4,7 @@ const Footer2 = () => {
       <img src="img/deco/map.png" alt="background" className="mil-footer-bg" />
       <div className="container">
         <div className="mil-footer-content">
-          <div className="row align-items-center mil-p-120-60">
+          <div className="row align-items-center mil-p-60-60">
             <div className="col-xl-6 mil-mb-60">
               <h3 className="mil-light mil-mb-15">
                 Join The <span className="mil-accent">STS</span> Experience
@@ -24,7 +24,7 @@ const Footer2 = () => {
             </div>
           </div>
           <div className="mil-divider mil-light" />
-          <div className="row justify-content-between mil-p-120-60">
+          <div className="row justify-content-between mil-p-60-60">
             <div className="col-md-3 col-lg-3 col-xl-3 mil-mb-30">
               <img
                 src="img/logo/01.png"
@@ -107,12 +107,8 @@ const Footer2 = () => {
                       <a href="/about">About Us</a>
                     </li>
                     <li>
-                      <a href="/service-1">Service</a>
+                      <a href="/solution-1">Service</a>
                     </li>
-                    <li>
-                      <a href="/solution-1">Solution</a>
-                    </li>
-
                     <li>
                       <a href="#.">Privacy Policy</a>
                     </li>

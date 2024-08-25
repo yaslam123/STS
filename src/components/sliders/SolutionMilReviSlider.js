@@ -2,18 +2,18 @@ import { sliderProps } from "@/src/common/sliderProps";
 import { Swiper, SwiperSlide } from "swiper/react";
 const SolutionMilReviSlider = () => {
   return (
-    <section className="mil-p-120-120">
+    <section className="mil-p-60-60">
       <div className="mil-deco" style={{ top: 0, right: "30%" }} />
       <div className="container">
-        <div className="row align-items-end mil-mb-90">
+        <div className="row align-items-end mil-mb-50">
           <div className="col-md-6 col-xl-6">
             <span className="mil-suptitle mil-suptitle-2 mil-mb-30">
               Solutions of Consulting
             </span>
             <h2>
-              <span className="mil-accent">
-                Why Choose STS for Your CCTV Security Needs?
-              </span>
+              Why Choose
+              <span className="mil-accent"> STS </span>
+              for Your CCTV Security Needs?
             </h2>
           </div>
           <div className="col-md-6 col-xl-6">
@@ -46,8 +46,7 @@ const SolutionMilReviSlider = () => {
                 directly to your smartphone or other devices. This feature
                 ensures that you are instantly informed of any suspicious
                 activity, allowing for a rapid response to potential threats.
-                The system can also be integrated with other security measures,
-                such as alarms and police notifications.
+                The system can also be integrated with other security measures.
               </p>
             </div>
           </SwiperSlide>
@@ -58,12 +57,12 @@ const SolutionMilReviSlider = () => {
               </div>
               <h5 className="mil-mb-30">Expert Support and Maintenance</h5>
               <p>
-                Choosing STS means having access to a team of experienced
-                professionals who offer ongoing support, maintenance, and
-                upgrades. This ensures that your CCTV system remains operational
-                at all times, with any technical issues resolved promptly. The
-                reliable support also includes regular updates to keep your
-                security system at the forefront of technological advancements.
+                Choosing STS means gaining access to a dedicated team of
+                experienced professionals who provide ongoing support,
+                maintenance, and system upgrades. This comprehensive service
+                ensures that your CCTV system remains operational and effective
+                at all times, with any technical issues swiftly resolved by our
+                expert team.
               </p>
             </div>
           </SwiperSlide>
@@ -74,11 +73,12 @@ const SolutionMilReviSlider = () => {
               </div>
               <h5 className="mil-mb-30">Scalability and Customization</h5>
               <p>
-                STS offers scalable solutions that can be customized to fit the
-                unique needs of your business or home. Whether you require a
-                single camera setup or a comprehensive network of surveillance
-                systems across multiple locations, STS can provide a tailored
-                solution that grows with your security requirements.
+                STS offers highly scalable solutions that are fully customizable
+                to meet the unique security needs of your business or home.
+                Whether you require a simple, single-camera setup or an
+                extensive network of surveillance systems across multiple
+                locations, <br /> STS delivers a tailored solution that evolves
+                with your security requirements.
               </p>
             </div>
           </SwiperSlide>
@@ -89,10 +89,12 @@ const SolutionMilReviSlider = () => {
               </div>
               <h5 className="mil-mb-30">Comprehensive Customer Care</h5>
               <p>
-                STS combines advanced CCTV technology with excellent customer
-                care. From choosing the right system to installation and ongoing
-                support, STS ensures you’re fully supported at every stage,
-                providing peace of mind and reliable security.
+                we combine cutting-edge CCTV technology with exceptional
+                customer care to provide a holistic security solution. From the
+                consultation and selection of the right system to a installation
+                and ongoing support, we're committed to supporting you at every
+                stage of your security journey. Our approach ensures that you
+                receive attention and reliable service.
               </p>
             </div>
           </SwiperSlide>

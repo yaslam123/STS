@@ -12,8 +12,26 @@ const clickedTabsSliderButton = (event) => {
 
 const Solution1About = () => {
   return (
-    <section className="mil-deep-bg mil-p-120-0">
+    <section className="mil-deep-bg">
       <div className="container">
+        <div className="mil-tab-buttons mil-p-0-90">
+          <a
+            href="#tab1"
+            className="mil-active"
+            onClick={clickedTabsSliderButton}
+          >
+            <span>Security Services</span>
+          </a>
+          <a href="#tab2" onClick={clickedTabsSliderButton}>
+            <span>IT Solutions</span>
+          </a>
+          <a href="#tab3" onClick={clickedTabsSliderButton}>
+            <span>Communication Systems</span>
+          </a>
+          <a href="#tab4" onClick={clickedTabsSliderButton}>
+            <span>Fire Protection</span>
+          </a>
+        </div>
         <Swiper
           {...sliderProps.milTabsSlider}
           className="swiper-container mil-tabs-slider"
@@ -205,22 +223,23 @@ const Solution1About = () => {
                 <div className="row mil-mb-60">
                   <div className="col-lg-6">
                     <p>
-                    <h4>1</h4>Fire Alarm Systems: "We install and maintain fire alarm
-                      systems that ensure early detection and warning,
-                      protecting lives and property." Emergency Lighting: "Our
-                      emergency lighting solutions guarantee that your premises
-                      are safely illuminated during power outages, guiding
-                      occupants to safety
+                      <h4>1</h4>Fire Alarm Systems: "We install and maintain
+                      fire alarm systems that ensure early detection and
+                      warning, protecting lives and property." Emergency
+                      Lighting: "Our emergency lighting solutions guarantee that
+                      your premises are safely illuminated during power outages,
+                      guiding occupants to safety
                     </p>
                   </div>
                   <div className="col-lg-6">
                     <p>
-                    <h4>2</h4>Fire Suppression Systems: "We offer fire suppression
-                      solutions like sprinklers, gas suppression, and foam-based
-                      systems to efficiently control and extinguish fires." Fire
-                      Safety Audits: "Our experts conduct thorough fire safety
-                      audits to identify risks and ensure your fire protection
-                      measures are up to date and effective.
+                      <h4>2</h4>Fire Suppression Systems: "We offer fire
+                      suppression solutions like sprinklers, gas suppression,
+                      and foam-based systems to efficiently control and
+                      extinguish fires." Fire Safety Audits: "Our experts
+                      conduct thorough fire safety audits to identify risks and
+                      ensure your fire protection measures are up to date and
+                      effective.
                     </p>
                   </div>
                 </div>
@@ -243,24 +262,6 @@ const Solution1About = () => {
             </div>
           </SwiperSlide>
         </Swiper>
-        <div className="mil-tab-buttons mil-mt-60-adapt">
-          <a
-            href="#tab1"
-            className="mil-active"
-            onClick={clickedTabsSliderButton}
-          >
-            <span>Security Services</span>
-          </a>
-          <a href="#tab2" onClick={clickedTabsSliderButton}>
-            <span>IT Solutions</span>
-          </a>
-          <a href="#tab3" onClick={clickedTabsSliderButton}>
-            <span>Communication Systems</span>
-          </a>
-          <a href="#tab4" onClick={clickedTabsSliderButton}>
-            <span>Fire Protection</span>
-          </a>
-        </div>
       </div>
     </section>
   );

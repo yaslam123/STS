@@ -5,13 +5,13 @@ import Content from "../../data/sliders/services";
 
 const Home2ServicesSlider = () => {
   return (
-    <section className="mil-services mil-deep-bg mil-p-120-90">
+    <section className="mil-services mil-deep-bg mil-p-90-90">
       <div
         className="mil-deco2 mil-deco-deccent"
         style={{ top: 0, right: "20%" }}
       />
       <div className="container">
-        <div className="row align-items-center mil-mb-90">
+        <div className="row align-items-center mil-mb-30">
           <div className="col-md-6 col-xl-6">
             <span className="mil-suptitle mil-suptitle-2 mil-mb-30">
               {Content.subtitle}

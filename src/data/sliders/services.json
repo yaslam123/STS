@@ -4,7 +4,7 @@
   "items": [
     {
       "name": "Security Services",
-      "text": "Security is at the core of our offerings. We provide a range of advanced security solutions to protect your business and assets:",
+      "text": "Safeguard your business with cutting-edge security solutions tailored to protect your assets effectively:",
       "list": [
         { "value": "CCTV Systems." },
         { "value": "Access Control." },
@@ -16,7 +16,7 @@
     },
     {
       "name": "IT Solutions",
-      "text": "In the digital age, a robust IT infrastructure is essential for any business. STS provides a full suite of IT services to keep your operations running smoothly:",
+      "text": "Empower your operations with reliable, innovative IT infrastructure solutions designed to drive success:",
       "list": [
         { "value": "IT Infrastructure." },
         { "value": "Cloud Solutions" },
@@ -28,19 +28,19 @@
     },
     {
       "name": "Communication Systems",
-      "text": "Effective communication is vital to any business’s success. STS provides cutting-edge communication solutions designed to enhance connectivity and collaboration:",
+      "text": "Elevate connectivity and collaboration with our advanced, customer-focused communication solutions:",
       "list": [
         { "value": "BPX Phone Systems." },
         { "value": "VoIP Solutions." },
         { "value": "Network Cabling." },
-        { "value": "Smart Parking Locks and Access Control" }
+        { "value": "Smart Locks and Access Control" }
       ],
       "button": "Learn More",
       "link": "/contact"
     },
     {
       "name": "Fire Protection",
-      "text": "Your safety is our priority. STS offers a complete range of fire protection services to safeguard your premises:",
+      "text": "Prioritize safety with our comprehensive, innovative fire protection services and products:",
       "list": [
         { "value": "Fire Alarm Systems." },
         { "value": "Emergency Lighting." },
@@ -52,12 +52,12 @@
     },
     {
       "name": "Electronic Devices",
-      "text": "Enhance the efficiency, security, and convenience of your operations with our wide range of electronic devices:",
+      "text": "Optimize efficiency and security with our reliable, cutting-edge range of electronic devices:",
       "list": [
         { "value": "Smart Door Locks." },
         { "value": "POS Devices." },
         { "value": "Handheld Metal Detectors." },
-        { "value": "Dome Cameras and Surveillance Tools." }
+        { "value": "Cameras and Surveillance Tools." }
       ],
       "button": "Learn More",
       "link": "/contact"

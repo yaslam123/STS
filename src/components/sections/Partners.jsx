@@ -3,7 +3,7 @@ import Content from "../../data/sections/partners.json";
 
 const PartnersSection = () => {
   return (
-    <div className="mil-partners mil-p-90-60">
+    <div className="mil-partners mil-p-60-60">
       <div className="container">
         <div className="mil-partners-frame">
           {Content.items.map((item, index) => (

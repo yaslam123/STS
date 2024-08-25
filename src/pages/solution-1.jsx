@@ -28,7 +28,7 @@ const Solution1 = () => {
       />
 
       {/* call to action */}
-      <section className="mil-p-120-90">
+      <section className="mil-p-90-90">
         <div
           className="mil-deco"
           style={{ bottom: 0, right: "25%", transform: "rotate(180deg)" }}
@@ -36,7 +36,7 @@ const Solution1 = () => {
         <div className="container">
           <div className="row">
             <div className="col-lg-8">
-              <div className="mil-hori-box mil-mb-30">
+              <div className="mil-hori-box">
                 <div className="mil-mr-30">
                   <div className="mil-icon-frame mil-icon-frame-md mil-icon-bg">
                     <img src="img/icons/md/11.svg" alt="icon" />
@@ -68,7 +68,7 @@ const Solution1 = () => {
         <div className="mil-divider" />
       </div>
       {/* title */}
-      <section className="mil-p-120-0">
+      <section className="mil-p-60-60">
         <div className="container">
           <div className="mil-text-center mil-mb-90">
             <span className="mil-suptitle mil-suptitle-2 mil-mb-30">
@@ -82,13 +82,11 @@ const Solution1 = () => {
         </div>
       </section>
       {/* title end */}
-      {/* about */}
       <Solution1About />
-      {/* about end */}
       {/* title */}
-      <section className="mil-p-120-0">
+      <section className="mil-p-60-60">
         <div className="container">
-          <div className="mil-text-center mil-mb-90">
+          <div className="mil-text-center">
             <span className="mil-suptitle mil-suptitle-2 mil-mb-30">
               Consulting
             </span>
